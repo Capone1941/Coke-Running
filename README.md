@@ -1,2 +1,6 @@
-# Coke running rp script ESX
- Coke running script, runs at 0.01ms YOU NEED MYTHIC NOTIFY AND LOADBAR
+## Capone Coke Running ##
+**This script allows players to get coke and sell**
+
+- [x] Optimised 0.01ms
+
+**Made by [CaponeSec](https://github.com/CaponeSec)**
